@@ -87,5 +87,3 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 - 🔒 **bcrypt**: A library for hashing user passwords.
 - 💌 **Nodemailer**: A library for sending email.
 - ☁️ **Cloudinary**: A cloud-based image and video management service.
-
-Happy coding! 👩‍💻👨‍💻
